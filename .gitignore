@@ -1,0 +1,14 @@
+*.aux
+.coverage
+*.egg-info/
+htmlcov
+*.log
+*.nav
+*.out
+*.pdf
+__pycache__/
+*.pyg
+*.snm
+*.toc
+venv/
+.venv
